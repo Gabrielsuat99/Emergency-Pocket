@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92829716296",
+    "project_id": "emergency-pocket-98c73",
+    "storage_bucket": "emergency-pocket-98c73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92829716296:android:e0e9b9cab71a624cb3ed7d",
+        "android_client_info": {
+          "package_name": "com.example.emergencypocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92829716296-dm9l8hglb4hjg6nodd7v1cdbcagujh0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBscZZh6uTKsrknPfUZd0P7S8H5BcEKMVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92829716296-dm9l8hglb4hjg6nodd7v1cdbcagujh0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

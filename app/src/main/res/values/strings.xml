@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Emergency Pocket</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="Click_to_register">Register</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="Click_to_login">Login</string>
+    <string name="username">Username</string>
+    <string name="Logout">Logout</string>
+    <string name="Mypst">Map</string>
+    <string name="MAPS_API_KEY">AIzaSyAh0VUzjWxI7RBaEI_U3at25LUi5QGRC9w</string>
+    <string name="Hospital">Nearest Hospital</string>
+    <string name="about">About Us</string>
+    <string name="gabriel">Gabriel Suat\n2021107181</string>
+    <string name="caesy">Caesyrina Gunang Sudin\n2021505471</string>
+    <string name="sofeya">Noor Sofeya Hanis Noor Azmi\n2021171635</string>
+    <string name="ju">Juminah Latuwo\n2021127653</string>
+    <string name="details">Emergency Pocket is a mobile application designed to provide users with the ability to search for nearby hospitals and health clinics. Additionally, the application can automatically update the user\'s location, ensuring accurate and up-to-date information.</string>
+    <string name="details2">Programme Code: ICT602\nGroup: CS2405B</string>
+    <string name="details3">https://github.com/Gabrielsuat99/Emergency-Pocket.git</string>
+    <string name="copyright">Copyright © 2023 Emergency Pocket. All rights reserved.</string>
+</resources>
